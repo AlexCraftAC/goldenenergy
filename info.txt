@@ -1,7 +1,7 @@
 name:GoldenEnergy Installer
 version:1.0.0
 bundle:1
-info: Download the GoldenEnergy App and keep it updated with the latest update!
+info: New App Design!
 author:GoldenEnergy
 twitter:https://twitter.com/GoldenEnergyPE
 betaVersion:No Beta Available

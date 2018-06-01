@@ -1,0 +1,11 @@
+name:GoldenEnergy Installer
+version:1.0.0
+bundle:1
+info: Download the GoldenEnergy App and keep it updated with the latest update!
+author:GoldenEnergy
+twitter:https://twitter.com/GoldenEnergyPE
+betaVersion:No Beta Available
+betaBundle:0
+download:https://github.com/AlexCraftAC/goldenenergy/raw/apps/GoldenEnergy%20Official%20App.apk
+recommend:.
+updated:01.06.2018

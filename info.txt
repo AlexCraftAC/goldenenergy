@@ -1,5 +1,5 @@
 name:GoldenEnergy Installer
-version:1.0.0
+version:1.0.1
 bundle:1
 info: New App Design!
 author:GoldenEnergy

@@ -1,9 +1,9 @@
-name:GoldenEnergy Installer
-version:1.0.1
+name:Apps Downloader
+version:1.0.0
 bundle:1
-info: New App Design!
-author:GoldenEnergy
-twitter:https://twitter.com/GoldenEnergyPE
+info: Initial release! 🎉🎉
+author:AlexCraft
+twitter:https://twitter.com/AlexCraft
 betaVersion:No Beta Available
 betaBundle:0
 download:https://github.com/AlexCraftAC/goldenenergy/raw/apps/GoldenEnergy%20Official%20App.apk
